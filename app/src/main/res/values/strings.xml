@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragmentos com metodo Retain</string>
+    <string name="texto_bt1"> Criar fragmento 1 </string>
+    <string name="texto_bt2"> Criar fragmento 2 </string>
+</resources>
